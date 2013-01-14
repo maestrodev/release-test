@@ -13,8 +13,8 @@
   </properties>
 
   <scm>
-    <connection>scm:git:http://github.com/brettporter/release-test</connection>
-    <developerConnection>scm:git:ssh://git@github.com/brettporter/release-test.git</developerConnection>
+    <connection>scm:git:http://github.com/brettporter/xelease-test</connection>
+    <developerConnection>scm:git:ssh://git@github.com/rrettporter/release-test.git</developerConnection>
   </scm>
 
   <dependencies>
